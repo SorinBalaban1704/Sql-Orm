@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\bankbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\bankbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankBD.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\BankBD.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\BankBD.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\BankBD.cs",
+              "RelativeToolTip": "Sql ORM\\BankBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:07:02.686Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Program.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Program.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Program.cs*",
+              "RelativeToolTip": "Sql ORM\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:23:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\MembersController.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\MembersController.cs*",
+              "RelativeToolTip": "Sql ORM\\Controllers\\MembersController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:05:46.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
