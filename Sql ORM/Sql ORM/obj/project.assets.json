@@ -4427,11 +4427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Sql ORM.csproj",
+      "projectUniqueName": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Sql ORM.csproj",
       "projectName": "Sql ORM",
-      "projectPath": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Sql ORM.csproj",
+      "projectPath": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Sql ORM.csproj",
       "packagesPath": "C:\\Users\\Sorin\\.nuget\\packages\\",
-      "outputPath": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\obj\\",
+      "outputPath": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sorin\\AppData\\Roaming\\NuGet\\NuGet.Config",

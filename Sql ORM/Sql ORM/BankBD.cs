@@ -13,7 +13,7 @@ namespace Sql_ORM
         public DbSet<Member> Members => Set<Member>();
         public DbSet<ProfileMember> Profiles => Set<ProfileMember>();
         public DbSet<Produs> Produs => Set<Produs>();
-        public DbSet<Comanda> comenzi => Set<Comanda>();
+        public DbSet<Comanda> Comand => Set<Comanda>();
         public DbSet<DetaliiComanda> DetaliiComenzi => Set<DetaliiComanda>();   
         
         public BankBD() => Database.EnsureCreated();

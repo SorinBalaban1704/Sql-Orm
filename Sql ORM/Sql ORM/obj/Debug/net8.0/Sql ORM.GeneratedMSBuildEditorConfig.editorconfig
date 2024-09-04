@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sql_ORM
-build_property.ProjectDir = W:\Apllication Work\GitHub CodWer\orm-entity-framework-core-SorinBalaban1704\Sql ORM\Sql ORM\
+build_property.ProjectDir = W:\Apllication Work\GitHub\Repositories\Sql-Orm\Sql ORM\Sql ORM\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

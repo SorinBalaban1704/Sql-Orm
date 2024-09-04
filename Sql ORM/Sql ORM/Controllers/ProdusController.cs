@@ -36,8 +36,9 @@ namespace Sql_ORM.Controllers
                 Denumire = numeleProd,
                 Pret = price,
                 Stoc = stoc,
-                Descriere = descriere
-
+                Descriere = descriere,
+                DataCreare = DateTime.Now,
+                DataModificare = DateTime.Now
             };
 
             _context.Produs.Add(NewProdus);
@@ -60,6 +61,23 @@ namespace Sql_ORM.Controllers
             else
                 Console.WriteLine("Nu sunt produse!");
 
+        }
+        public void DeleteProdus()
+        {
+            Console.WriteLine("Introdu ID-ul produsului de sters: ");
+            int produsId = int.Parse(Console.ReadLine());
+
+            var produs = _context.Produs.FirstOrDefault(p => p.ProdusId == produsId);
+
+            if (produs != null)
+            {
+                _context.Produs.Remove(produs);
+                _context.SaveChanges();
+                Console.WriteLine("Produsul a fost sters");
+            }
+            else {
+                Console.WriteLine("Produsul cu Id-ul specificat nu a fost gasit.");
+            }
         }
 
 

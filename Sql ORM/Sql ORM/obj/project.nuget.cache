@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OL+4LIAktWs=",
+  "dgSpecHash": "AY+jYMImDGU=",
   "success": true,
-  "projectFilePath": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Sql ORM.csproj",
+  "projectFilePath": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Sql ORM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sorin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Sorin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

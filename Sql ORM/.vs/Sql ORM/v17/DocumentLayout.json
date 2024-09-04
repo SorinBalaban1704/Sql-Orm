@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\",
+  "WorkspaceRootPath": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\controllers\\produscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\controllers\\produscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\controllers\\comenzicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\controllers\\comenzicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\controllers\\comenzicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github codwer\\orm-entity-framework-core-sorinbalaban1704\\sql orm\\sql orm\\bankbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\models\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\models\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\bankbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\bankbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\models\\detaliicomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\models\\detaliicomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\controllers\\produscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\controllers\\produscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\models\\profilemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\models\\profilemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|w:\\apllication work\\github\\repositories\\sql-orm\\sql orm\\sql orm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB92C-ECC7-4BDA-86C8-A947A1CD54B8}|Sql ORM\\Sql ORM.csproj|solutionrelative:sql orm\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +50,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BankBD.cs",
-              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\BankBD.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\BankBD.cs",
               "RelativeDocumentMoniker": "Sql ORM\\BankBD.cs",
-              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\BankBD.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\BankBD.cs",
               "RelativeToolTip": "Sql ORM\\BankBD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T17:07:02.686Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ComenziController.cs",
-              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\ComenziController.cs",
-              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\ComenziController.cs",
-              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\ComenziController.cs",
-              "RelativeToolTip": "Sql ORM\\Controllers\\ComenziController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProfileMember.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\ProfileMember.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Models\\ProfileMember.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\ProfileMember.cs",
+              "RelativeToolTip": "Sql ORM\\Models\\ProfileMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:27:52.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T16:38:36.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProdusController.cs",
-              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\ProdusController.cs",
-              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\ProdusController.cs",
-              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\ProdusController.cs",
-              "RelativeToolTip": "Sql ORM\\Controllers\\ProdusController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:27:40.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Program.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Program.cs",
               "RelativeDocumentMoniker": "Sql ORM\\Program.cs",
-              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Program.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Program.cs",
               "RelativeToolTip": "Sql ORM\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T17:23:46.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MembersController.cs",
-              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\MembersController.cs",
-              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\MembersController.cs",
-              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Controllers\\MembersController.cs",
-              "RelativeToolTip": "Sql ORM\\Controllers\\MembersController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\Produs.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Models\\Produs.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\Produs.cs",
+              "RelativeToolTip": "Sql ORM\\Models\\Produs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:05:46.307Z",
+              "WhenOpened": "2024-09-02T17:40:44.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Produs.cs",
-              "DocumentMoniker": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Models\\Produs.cs",
-              "RelativeDocumentMoniker": "Sql ORM\\Models\\Produs.cs",
-              "ToolTip": "W:\\Apllication Work\\GitHub CodWer\\orm-entity-framework-core-SorinBalaban1704\\Sql ORM\\Sql ORM\\Models\\Produs.cs",
-              "RelativeToolTip": "Sql ORM\\Models\\Produs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DetaliiComanda.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\DetaliiComanda.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Models\\DetaliiComanda.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\DetaliiComanda.cs",
+              "RelativeToolTip": "Sql ORM\\Models\\DetaliiComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:40:44.492Z",
+              "WhenOpened": "2024-09-04T16:38:39.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComenziController.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Controllers\\ComenziController.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\ComenziController.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Controllers\\ComenziController.cs",
+              "RelativeToolTip": "Sql ORM\\Controllers\\ComenziController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:27:52.638Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\MembersController.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Sql ORM\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:05:46.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Models\\Member.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\Member.cs",
+              "RelativeToolTip": "Sql ORM\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:38:03.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comanda.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\Comanda.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Models\\Comanda.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Models\\Comanda.cs",
+              "RelativeToolTip": "Sql ORM\\Models\\Comanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:10:37.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdusController.cs",
+              "DocumentMoniker": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Controllers\\ProdusController.cs",
+              "RelativeDocumentMoniker": "Sql ORM\\Controllers\\ProdusController.cs",
+              "ToolTip": "W:\\Apllication Work\\GitHub\\Repositories\\Sql-Orm\\Sql ORM\\Sql ORM\\Controllers\\ProdusController.cs",
+              "RelativeToolTip": "Sql ORM\\Controllers\\ProdusController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:27:40.149Z"
             }
           ]
         }

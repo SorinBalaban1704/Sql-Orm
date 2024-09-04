@@ -17,7 +17,7 @@ namespace Sql_ORM.Models
         public decimal PretUnitar { get; set; }
         public DateTime DataCreare { get; set; }
         public DateTime DataModificare { get; set; }
-        public Comanda Comanda { get; set; }
+        public Comanda Comand { get; set; }
         public Produs Produs { get; set; }
     }
 }

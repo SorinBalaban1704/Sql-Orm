@@ -19,6 +19,8 @@ namespace Sql_ORM
 
             
                 var memberController = new MembersController();
+                var comenziController = new ComenziController();
+                var produsController = new ProdusController();
                 bool running = true;
                 while (running)
                 {
@@ -28,8 +30,14 @@ namespace Sql_ORM
                     Console.WriteLine("3. Modifică un membru");
                     Console.WriteLine("4. Sterge un membru");
                     Console.WriteLine("_________________________________________________________");
-                    Console.WriteLine("4. Sterge un membru");
-                    Console.WriteLine("5. Iesire");
+                    Console.WriteLine("5. Adauga un produs");
+                    Console.WriteLine("6. Afiseaza produsele");
+                    Console.WriteLine("7. Sterge un produs");
+                    Console.WriteLine("_________________________________________________________");
+                    Console.WriteLine("8. Adauga o comanda");
+                    Console.WriteLine("9. Afiseaza comenzile");
+                    Console.WriteLine("10. Sterge o comanda");
+                    Console.WriteLine("11. Iesire");
 
                     var key = Console.ReadLine();
                     switch (key)
@@ -47,6 +55,24 @@ namespace Sql_ORM
                             memberController.DeleteMember();
                             break;
                         case "5":
+                            comenziController.AddComanda();
+                            break;
+                        case "6":
+                            comenziController.DisplayComanda();
+                            break;
+                        case "7":
+                            comenziController.DeleteComanda();
+                            break;
+                        case "8":
+                            produsController.AddProdus();
+                            break;
+                        case "9":
+                            produsController.DisplayProdus();
+                            break;
+                        case "10":
+                            produsController.DeleteProdus();
+                            break;  
+                        case "11":
                             running = false;
                             break;
 
