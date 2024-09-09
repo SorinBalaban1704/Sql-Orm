@@ -30,13 +30,13 @@ namespace Sql_ORM
                     Console.WriteLine("3. Modifică un membru");
                     Console.WriteLine("4. Sterge un membru");
                     Console.WriteLine("_________________________________________________________");
-                    Console.WriteLine("5. Adauga un produs");
-                    Console.WriteLine("6. Afiseaza produsele");
-                    Console.WriteLine("7. Sterge un produs");
+                    Console.WriteLine("5. Adauga o comanda");
+                    Console.WriteLine("6. Afiseaza comenzile");
+                    Console.WriteLine("7. Sterge o comanda");
                     Console.WriteLine("_________________________________________________________");
-                    Console.WriteLine("8. Adauga o comanda");
-                    Console.WriteLine("9. Afiseaza comenzile");
-                    Console.WriteLine("10. Sterge o comanda");
+                    Console.WriteLine("8. Adauga un produs");
+                    Console.WriteLine("9. Afiseaza produsele");
+                    Console.WriteLine("10. Sterge un produs");
                     Console.WriteLine("11. Iesire");
 
                     var key = Console.ReadLine();

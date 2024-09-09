@@ -18,7 +18,7 @@ namespace Sql_ORM.Controllers
             _context.Database.EnsureCreated();
         }
 
-        //Comanda de adaugare a unui noi membru
+        
         public void AddMember()
         {
             Console.Write("Introdu numele de familie: ");
@@ -28,7 +28,7 @@ namespace Sql_ORM.Controllers
             string firstName = Console.ReadLine();
 
             Console.Write("Introdu varsta: ");
-            string age = Console.ReadLine();
+            int age = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Introdu suma initială: ");
             int amount = int.Parse(Console.ReadLine());
@@ -48,7 +48,7 @@ namespace Sql_ORM.Controllers
             Console.WriteLine("Membrul a fost adaugat cu succes!");
         }
 
-        //Comanda de afisare a membrilor 
+        
         public void DisplayMembers()
         {
             var members = _context.Members.ToList();
@@ -66,7 +66,7 @@ namespace Sql_ORM.Controllers
    
         }
 
-        //Comanda de actualizare a unui membru
+        
         public void UpdateMember()
         {
             Console.Write("Introdu ID-ul membrului de actualizat: ");
@@ -83,7 +83,7 @@ namespace Sql_ORM.Controllers
                 member.FirstName = Console.ReadLine();
 
                 Console.Write("Introdu noua varstă: ");
-                member.Age = Console.ReadLine();
+                member.Age = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Introdu noua suma: ");
                 member.Amount = int.Parse(Console.ReadLine());
@@ -104,12 +104,12 @@ namespace Sql_ORM.Controllers
             Console.Write("Introdu ID-ul membrului de șters: ");
             int memberId = int.Parse(Console.ReadLine());
 
-            // Găsește membrul în baza de date
+            
             var member = _context.Members.FirstOrDefault(m => m.MemberId == memberId);
 
             if (member != null)
             {
-                // Șterge membrul găsit
+                
                 _context.Members.Remove(member);
                 _context.SaveChanges();
                 Console.WriteLine("Membrul a fost sters cu succes!");

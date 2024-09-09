@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sql ORM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d694864797c882da5c160140105f33949a0ef95e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1f8bdd3d8c84c493da1ac4a8388e322dc54dd1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sql ORM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sql ORM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,13 +18,24 @@ namespace Sql_ORM.Controllers
         }
         public void AddComanda()
         {
-            Console.WriteLine("Care comanda doriti sa o adaugtati?:");
+            Console.WriteLine("Introduceti ID-ul membrului asociat comenzii:");
+            int memberId = int.Parse(Console.ReadLine());
+
+            
+            var memberExists = _context.Members.Any(m => m.MemberId == memberId);
+            if (!memberExists)
+            {
+                Console.WriteLine("ID-ul membrului nu există. Vă rugăm să introduceți un ID valid.");
+                return;
+            }
+
+            Console.WriteLine("Care comanda doriti sa o adaugati?:");
             string denumire = Console.ReadLine();
 
             Console.WriteLine("Care este totalul comenzii?:");
             decimal total = Convert.ToDecimal(Console.ReadLine());
 
-            Console.WriteLine("Introduceti descrirea comnezii:");
+            Console.WriteLine("Introduceti descrierea comenzii:");
             string descriere = Console.ReadLine();
 
             var NewComanda = new Comanda
@@ -33,9 +44,10 @@ namespace Sql_ORM.Controllers
                 Desc = descriere,
                 Total = total,
                 DataCreare = DateTime.Now,
-                DataModificare = DateTime.Now
-
+                DataModificare = DateTime.Now,
+                MemberId = memberId 
             };
+
             _context.Comand.Add(NewComanda);
             _context.SaveChanges();
             Console.WriteLine("Comanda a fost adaugata");
